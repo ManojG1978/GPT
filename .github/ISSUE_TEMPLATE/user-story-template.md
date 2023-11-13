@@ -1,7 +1,8 @@
 ---
 name: User story template
 about: This template provides a basic structure for user story issues.
-
+title: "[User Story]: As a [type of user], I want [some goal] so that [some reason]"
+labels: tracking issue, needs triage
 ---
 
 # User story
